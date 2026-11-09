@@ -137,3 +137,11 @@ Final version:
 ### Prompt 11
 
 > okay now guide me through pushing this to my github repo then triggering it to google cloud run
+
+### Prompt 12
+
+> wait isnt there something im supposed to do in github? i dont even see my repo there after doing part 1
+
+### Prompt 13
+
+> wait why are we doing an api key through resend? i simply just want to make this public through google cloud run so can you help me do that just like how we did it for the ICE 5

@@ -2,7 +2,7 @@
 
 A dynamic portfolio site for a Purdue University graduate student preparing for a career in construction project management. It's a React app with an Express API, deployed to Google Cloud Run.
 
-**Live site:** TODO(BRAYDEN): add the Cloud Run URL after deploying
+**Live site:** https://portfolio-406956800274.us-central1.run.app
 
 ## Features
 
