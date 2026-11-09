@@ -145,3 +145,25 @@ Final version:
 ### Prompt 13
 
 > wait why are we doing an api key through resend? i simply just want to make this public through google cloud run so can you help me do that just like how we did it for the ICE 5
+
+### Prompt 14
+
+> so just to clarify after doing step 1 and 2 from the above and everything prior, the website is up and will stay live until i say otherwise?
+
+### Prompt 15
+
+> for my submission of this assignment i must do the following:
+>
+> - A `.zip` file of your Git repository, including `CLAUDE.md`, your plan, your prompt log, and any `.claude/` settings or similar planning and prompting files
+>   - You DO NOT need to include the source documents you gave the AI
+> - Your reflection, in Markdown
+>   - The FIRST LINE of the reflection file must be the URL of your live portfolio
+>   - You MUST also note which AI platform and model you used to build the application
+>
+> could you just tell me the steps of how to do this please as far as where and how to save what and also how to create a Markdown for this
+
+### Prompt 16
+
+> ok wait i wrote the reflection in another markdown file outside this project can you add it to this project if i just include the file?
+
+**Attachment:** Brayden's reflection, `personal portfolio reflection.md`. It's saved in the repo as `REFLECTION.md`.
