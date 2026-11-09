@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Placeholder image">
+  <defs>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M50 0H0V50" fill="none" stroke="#2dd4bf" stroke-opacity=".12" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="750" fill="#101a2e"/>
+  <rect width="1200" height="750" fill="url(#grid)"/>
+  <g fill="none" stroke="#2dd4bf" stroke-opacity=".55" stroke-width="4">
+    <path d="M400 560V270l200-100 200 100v290zM400 365h400M400 460h400M533 203v357M667 203v357"/>
+  </g>
+  <text x="600" y="650" text-anchor="middle" font-family="sans-serif" font-size="36" fill="#fbbf24">Add your project image</text>
+</svg>

@@ -1,0 +1,15 @@
+# Files left out of the upload made by `gcloud run deploy --source .`
+.git
+.gitignore
+.gcloudignore
+node_modules/
+dist/
+coverage/
+test-results/
+playwright-report/
+docs/
+case-studies/
+tests/
+.env
+.env.*
+*.log

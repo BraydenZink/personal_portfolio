@@ -1,0 +1,38 @@
+[
+  {
+    "id": "us-31-kokomo-bypass",
+    "title": "US 31 Kokomo Bypass Concrete Patch Job (R-43541)",
+    "category": "Construction",
+    "description": "Worked on a 13-mile concrete patching job around Kokomo, IN, across two E&B Paving internships. In 2025, helped pour the patches and tine the concrete in the field. In 2026, developed job cost breakdowns for INDOT, built forecasting spreadsheets and monitored resource allocation.",
+    "tools": ["HeavyJob", "HeavyBid", "Vista", "OnBase", "Google Sheets"],
+    "image": "/images/projects/us-31-eb-paving.jpg",
+    "imageAlt": "E&B Paving company logo",
+    "links": [
+      { "label": "Read case study", "url": "https://github.com/BraydenZink/personal_portfolio/blob/main/case-studies/us-31-kokomo-bypass.md" }
+    ]
+  },
+  {
+    "id": "epics-wheelchair-platform",
+    "title": "EPICS NABL - Wheelchair Training Platform",
+    "category": "Leadership",
+    "description": "Led a multidisciplinary Purdue EPICS team in designing and completing a wheelchair training platform for new employees at Grant's House in Lafayette, IN. Took over the project midway through its lifecycle and completed it by the end of the semester. Grant's House now uses it to train new hires.",
+    "tools": ["EPICS Design Process"],
+    "image": "/images/projects/epics-wheelchair-platform.jpg",
+    "imageAlt": "Brayden and the EPICS team standing behind the completed wheelchair training platform",
+    "links": [
+      { "label": "Read case study", "url": "https://github.com/BraydenZink/personal_portfolio/blob/main/case-studies/epics-wheelchair-training-platform.md" }
+    ]
+  },
+  {
+    "id": "research-expo-2025",
+    "title": "2025 Fall Undergraduate Research Expo - Predicting Diabetes Risk",
+    "category": "Award",
+    "description": "Earned the Distinction Award at the 2025 Fall Undergraduate Research Expo for research applying machine learning to predict diabetes risk among Pima Indian women, identifying glucose, BMI and age as key predictors.",
+    "tools": ["Logistic regression", "Decision trees", "Random forests", "Gradient boosting", "Cross-validation"],
+    "image": "/images/projects/research-expo-2025.jpg",
+    "imageAlt": "Brayden and fellow researchers in front of their research poster at the 2025 Fall Undergraduate Research Expo",
+    "links": [
+      { "label": "Read case study", "url": "https://github.com/BraydenZink/personal_portfolio/blob/main/case-studies/diabetes-risk-research.md" }
+    ]
+  }
+]

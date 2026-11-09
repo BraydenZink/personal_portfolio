@@ -1,0 +1,38 @@
+{
+  "levels": {
+    "1": "Beginner",
+    "2": "Familiar",
+    "3": "Proficient",
+    "4": "Advanced"
+  },
+  "groups": [
+    {
+      "title": "Project management",
+      "skills": [
+        { "name": "CPM scheduling", "level": 4 },
+        { "name": "Jobsite safety", "level": 4 },
+        { "name": "Cost estimating", "level": 3 },
+        { "name": "RFIs and submittals", "level": 2 }
+      ]
+    },
+    {
+      "title": "Construction software",
+      "skills": [
+        { "name": "HeavyJob", "level": 4 },
+        { "name": "HeavyBid", "level": 4 },
+        { "name": "Microsoft Project", "level": 3 },
+        { "name": "Revit and Navisworks", "level": 3 },
+        { "name": "Bluebeam Revu", "level": 2 }
+      ]
+    },
+    {
+      "title": "Business systems",
+      "skills": [
+        { "name": "Vista", "level": 3 },
+        { "name": "OnBase", "level": 3 },
+        { "name": "Google Workspace", "level": 3 }
+      ]
+    }
+  ],
+  "learning": ["How technology is integrated into every aspect of business"]
+}

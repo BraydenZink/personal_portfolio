@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+
+# Secrets: never commit real keys
+.env
+.env.*
+!.env.example
+
+# Test output
+test-results/
+playwright-report/
+
+*.log
+.DS_Store

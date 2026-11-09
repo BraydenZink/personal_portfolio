@@ -1,0 +1,54 @@
+{
+  "name": "Brayden Zink",
+  "initials": "BZ",
+  "headline": "Construction Project Management",
+  "valueProposition": "I translate financial, operational and field data into actionable insights for construction project teams.",
+  "intro": "I'm a Master of Business and Technology student at Purdue University's Daniels School of Business, with an interdisciplinary background in business and engineering. As a project management intern at E&B Paving, I analyzed job costs, built forecasts and worked with both field crews and leadership.",
+  "education": [
+    {
+      "school": "Purdue University, Daniels School of Business",
+      "degree": "Master of Business and Technology",
+      "date": "Expected May 2027"
+    },
+    {
+      "school": "Purdue University, Daniels School of Business",
+      "degree": "Bachelor of Science, Integrated Business and Engineering",
+      "date": "May 2026"
+    }
+  ],
+  "pillars": [
+    {
+      "title": "Cost and forecasting",
+      "description": "At E&B Paving, I analyzed job cost reports and built forecasts across four projects, and I helped reallocate surplus materials for over $160,000 in company savings."
+    },
+    {
+      "title": "Field experience",
+      "description": "I worked alongside asphalt and concrete crews on seven projects and partnered with a survey engineer to check grade and elevation on four."
+    },
+    {
+      "title": "Leadership",
+      "description": "At Purdue, I led an EPICS project team, engaged prospective students as a Business Ambassador and co-lead a Christian community through Salt Company."
+    }
+  ],
+  "leadership": [
+    {
+      "title": "EPICS team leader",
+      "description": "Led a multidisciplinary Purdue EPICS team in completing the design and development of a wheelchair training platform within one semester, after taking over the project midway."
+    },
+    {
+      "title": "Business Ambassadors",
+      "description": "Engaged prospective students through Business Ambassadors, helping increase overall yield at the Daniels School of Business from 20.8% to 27.4% in 2024."
+    },
+    {
+      "title": "Salt Company co-leader",
+      "description": "Co-lead a Christian-based community focused on worship, fellowship and Gospel study."
+    },
+    {
+      "title": "Community food drive",
+      "description": "Collected more than 1,400 pounds of food for families in the greater Lafayette area for three consecutive years."
+    }
+  ],
+  "headshot": "/images/headshot.jpg",
+  "linkedin": "https://www.linkedin.com/in/braydenzink",
+  "resume": null
+}

@@ -1,0 +1,17 @@
+node_modules
+dist
+coverage
+test-results
+playwright-report
+tests
+docs
+case-studies
+.git
+.github
+.env
+.env.*
+*.md
+*.log
+Dockerfile
+.dockerignore
+.gcloudignore
